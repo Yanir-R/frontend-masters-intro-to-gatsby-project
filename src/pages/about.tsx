@@ -8,10 +8,11 @@ export default function AboutPage() {
       <Layout
         title="About This Site"
         description="More Information about this site"
-      />
+      >
       
         <h1>About This Site</h1>
         <Link to="/">Back to home</Link>
+        </Layout>
   </>
   );
 }
